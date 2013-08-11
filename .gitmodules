@@ -1,0 +1,18 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/wiperdog/parent.git
+[submodule "org.wiperdog.configloader"]
+	path = org.wiperdog.configloader
+	url = https://github.com/wiperdog/org.wiperdog.configloader.git
+[submodule "org.wiperdog.directorywatcher"]
+	path = org.wiperdog.directorywatcher
+	url = https://github.com/wiperdog/org.wiperdog.directorywatcher.git
+[submodule "org.wiperdog.jobmanager"]
+	path = org.wiperdog.jobmanager
+	url = https://github.com/wiperdog/org.wiperdog.jobmanager.git
+[submodule "org.wiperdog.scriptsupport.groovyrunner"]
+	path = org.wiperdog.scriptsupport.groovyrunner
+	url = https://github.com/wiperdog/org.wiperdog.scriptsupport.groovyrunner.git
+[submodule "org.wiperdog.rshell.api"]
+	path = org.wiperdog.rshell.api
+	url = https://github.com/wiperdog/org.wiperdog.rshell.api.git
